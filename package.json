@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://puppyer.github.io/react-redux-counter/build",
+  "homepage": "https://puppyer.github.io/redux-counter-react/build",
   "eslintConfig": {
     "extends": "react-app"
   },
