@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/redux-counter-react/build/precache-manifest.3f6808399c1f93a5888b81af37ab727f.js"
+  "/react-redux-counter/build/precache-manifest.96560032e88d64365ba7c2e07dd8d132.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/redux-counter-react/build/index.html", {
+workbox.routing.registerNavigationRoute("/react-redux-counter/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

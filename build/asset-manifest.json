@@ -1,14 +1,14 @@
 {
-  "main.css": "/redux-counter-react/build/static/css/main.5b381557.chunk.css",
-  "main.js": "/redux-counter-react/build/static/js/main.4d88679d.chunk.js",
-  "main.js.map": "/redux-counter-react/build/static/js/main.4d88679d.chunk.js.map",
-  "static/js/1.50c61b12.chunk.js": "/redux-counter-react/build/static/js/1.50c61b12.chunk.js",
-  "static/js/1.50c61b12.chunk.js.map": "/redux-counter-react/build/static/js/1.50c61b12.chunk.js.map",
-  "runtime~main.js": "/redux-counter-react/build/static/js/runtime~main.934b9bbd.js",
-  "runtime~main.js.map": "/redux-counter-react/build/static/js/runtime~main.934b9bbd.js.map",
-  "static/media/logo.svg": "/redux-counter-react/build/static/media/logo.5d5d9eef.svg",
-  "static/css/main.5b381557.chunk.css.map": "/redux-counter-react/build/static/css/main.5b381557.chunk.css.map",
-  "index.html": "/redux-counter-react/build/index.html",
-  "precache-manifest.3f6808399c1f93a5888b81af37ab727f.js": "/redux-counter-react/build/precache-manifest.3f6808399c1f93a5888b81af37ab727f.js",
-  "service-worker.js": "/redux-counter-react/build/service-worker.js"
+  "main.css": "/react-redux-counter/build/static/css/main.5b381557.chunk.css",
+  "main.js": "/react-redux-counter/build/static/js/main.4aed0683.chunk.js",
+  "main.js.map": "/react-redux-counter/build/static/js/main.4aed0683.chunk.js.map",
+  "static/js/1.50c61b12.chunk.js": "/react-redux-counter/build/static/js/1.50c61b12.chunk.js",
+  "static/js/1.50c61b12.chunk.js.map": "/react-redux-counter/build/static/js/1.50c61b12.chunk.js.map",
+  "runtime~main.js": "/react-redux-counter/build/static/js/runtime~main.8b1c0398.js",
+  "runtime~main.js.map": "/react-redux-counter/build/static/js/runtime~main.8b1c0398.js.map",
+  "static/media/logo.svg": "/react-redux-counter/build/static/media/logo.5d5d9eef.svg",
+  "static/css/main.5b381557.chunk.css.map": "/react-redux-counter/build/static/css/main.5b381557.chunk.css.map",
+  "index.html": "/react-redux-counter/build/index.html",
+  "precache-manifest.96560032e88d64365ba7c2e07dd8d132.js": "/react-redux-counter/build/precache-manifest.96560032e88d64365ba7c2e07dd8d132.js",
+  "service-worker.js": "/react-redux-counter/build/service-worker.js"
 }
